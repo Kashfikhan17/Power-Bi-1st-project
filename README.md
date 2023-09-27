@@ -1,4 +1,5 @@
 # My 1st Power Bi Projects
+- Analyze Ecommerce sales data created an interactive dashboard using Power Bi
 # Project Key Points:
 - Data Collection
 - Data Cleaning and Wrangling
